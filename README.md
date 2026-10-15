@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 3rd Year B.Tech in Information Technology<br>💡 Passionate about DSA, Programming, and Cybersecurity<br>🔐 Cybersecurity Enthusiast | Always Exploring Vulnerabilities & Defenses<br>📚 Currently learning: Data Structures & Algorithms<br>🛠️ Tech Stack: DSA(C++, Python, Web developer, Linux, Git<br>🌱 Open to projects, collaboration, and continuous learning
+👨‍💻 Final Year B.Tech in Information Technology<br>💡 Passionate about DSA, Programming, and Cybersecurity<br>🔐 Cybersecurity Enthusiast | Always Exploring Vulnerabilities & Defenses<br>📚 Currently learning: Data Structures & Algorithms<br>🛠️ Tech Stack: DSA(C++, Python, Web developer, Linux, Git<br>🌱 Open to projects, collaboration, and continuous learning
 
 
 ## 🌐 Socials:
